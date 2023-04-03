@@ -4,6 +4,8 @@ project(calc CXX)
 
 add_executable(calc
     src/lexer.cpp
+    src/parser.cpp
+    src/astnode.cpp
     src/main.cpp
 )
 
