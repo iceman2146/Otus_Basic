@@ -1,0 +1,10 @@
+cmake_minimum_required(VERSION 3.8)
+
+project(03.homework)
+
+add_executable(
+	Game
+	Game.cpp
+    ZagadaiChislo.cpp
+	HighScore.cpp
+)

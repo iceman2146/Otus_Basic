@@ -1,0 +1,16 @@
+S 10
+D 1
+A 1
+C 42
+A 1
+B 2
+denchik 2
+hgd 0
+e 0
+l 0
+den 7
+sad 1
+denchik 3
+denchik 3
+nastya 5
+ggtrd 5
